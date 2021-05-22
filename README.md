@@ -12,7 +12,8 @@ The data-set can be downloaded from: https://www.kaggle.com/c/bluebook-for-bulld
 
 The project tried to provide enough documentation with the code, where explaining what is the specific reason for coding in that particular way has been the goal.
 
-### To run the project, please 
+### To run the project, please run `Predicting Car Prices.ipynb` in your Jupyter Notebook or preferred Notebook. 
+#### To view the code only for seeing the work, you can open the `Predicting Car Prices.pdf`. 
 
 
 
