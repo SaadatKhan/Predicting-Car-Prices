@@ -12,6 +12,8 @@ The data-set can be downloaded from: https://www.kaggle.com/c/bluebook-for-bulld
 
 The project tried to provide enough documentation with the code, where explaining what is the specific reason for coding in that particular way has been the goal.
 
+### To run the project, please 
+
 
 
 
